@@ -5,8 +5,9 @@ Number Invaders v0.2
 (originally created by CASIO)
 
 by Takis Tsiberis
-http://takira.freehosting.net/
-takira_gr@yahoo.com
+http://tsiberis.mysite.com/
+https://github.com/tsiberis
+tsiberis@gmail.com
 
 Copyright (C) 2007 Panagiotis Tsiberis
 This program is free software;
